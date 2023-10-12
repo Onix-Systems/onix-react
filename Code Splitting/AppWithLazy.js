@@ -1,3 +1,5 @@
+// Using dynamic imports with React.lazy() and Suspense
+
 import React, { lazy, Suspense } from 'react';
 
 const LazyComponent = lazy(() => import('./LazyComponent'));
