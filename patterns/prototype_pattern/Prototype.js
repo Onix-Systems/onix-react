@@ -1,22 +1,21 @@
 class Prototype {
-    greeting = "Hello!";
-    
-    greet() {
-        console.log(this.greeting);
+    counter = 0;
+    increment() {
+        this.counter += 1;
     }
-    
+    setCounter(number) {
+        this.counter = number;
+    }
+    getCounter() {
+        return this.counter;
+    }
     clone() {
-        return new this.constructor();
+        return Object.create(this);
     }
-
-    description = "This is a prototype class with a default greeting and a method to clone itself.";
 }
-
 const prototype = new Prototype();
-console.log(prototype.description);
-// This is a prototype class with a default greeting and a method to clone itself.
-prototype.greet(); // Hello!
+prototype.setCounter(5);
 const clonedPrototype = prototype.clone();
-console.log("Cloned instance's greeting:");
-// Cloned instance's greeting:
-clonedPrototype.greet(); // Hello!
+clonedPrototype.getCounter(); // 5
+prototype.setCounter(15);
+clonedPrototype.getCounter(); // 15
