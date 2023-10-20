@@ -1,8 +1,5 @@
 class Prototype {
     counter = 0;
-    increment() {
-        this.counter += 1;
-    }
     setCounter(number) {
         this.counter = number;
     }
