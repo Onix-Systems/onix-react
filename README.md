@@ -72,3 +72,5 @@ This folder provides a collection of code examples and snippets covering a wide 
 - [i18next:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/i18next) This folder and its contents provide an example of how to implement internationalization (i18n) in a React application using the i18next library.
 
 - [yup:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/yup) These code examples include code related to form validation using the Yup schema validation library in a React application. The provided code example sets up form validation with Yup and handles form submissions.
+
+- [Error Trackings:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Error-Tracking) In this directory, you'll find code examples related to error tracking and application state management using error boundaries and the Sentry and Rollbar tools. These examples showcase different strategies for organizing error tracking and managing application state.
