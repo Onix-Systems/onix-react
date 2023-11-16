@@ -53,7 +53,7 @@ This repository includes code and configurations related to CORS, which is a cru
 
 ### [Examples](https://github.com/Onix-Systems/onix-react/tree/dev/examples)
 
-This folder provides a collection of code examples and snippets covering a wide range of topics, including Axios for making HTTP requests, Code Splitting for optimizing your application's load time, Layout Animation for creating smooth UI transitions, Redux for state management, i18next for internationalization, and more.
+This folder provides a collection of code examples and snippets covering a wide range of topics, including Axios for making HTTP requests, Code Splitting for optimizing your application's load time, Animations for UI enrich interactions, Redux for state management, i18next for internationalization, and more.
 
 - [Axios:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Axios) These examples provide practical demonstrations of using Axios, a popular HTTP client library, for making network requests in JavaScript applications. They cover various aspects of request handling, including asynchronous requests, interceptors, instance creation, and Promise-based response handling.
 
@@ -61,7 +61,7 @@ This folder provides a collection of code examples and snippets covering a wide 
 
 - [Lazy Loading:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Lazy%20Loading)  These examples demonstrate how to implement lazy loading and handle loading and error states effectively in a React application.
 
-- [LayoutAnimation:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/LayoutAnimation) This example demonstrates how to use the `LayoutAnimation` feature in a React Native application to create animated transitions between different layout states. 
+- [Animations:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Animations) It's a folder with code examples for creating animations in a React Native application, covering both general animations using the `Animated` API and layout-specific animations using `LayoutAnimation`.
 
 - [Navigation:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Navigation) These code examples illustrate how to set up navigation in a React Native application using the `@react-navigation/native` library. 
 
