@@ -28,7 +28,7 @@ In the "Hooks" section, you'll find various React Hooks implementations and exam
 - [useHotkeys:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useHotkeys) The "useHotkeys" folder contains examples of custom hooks that allow you to define and manage keyboard shortcuts or hotkeys in your React application. 
 - [useId:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useId) The "useId" folder provides examples on how to generate unique identifiers that can be associated with form elements.
 - [useTimeout:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useTimeout) In the "useTimeout" folder, you'll find examples of custom hooks that provide a way to set and manage timeouts in a React component.
-- [useWindowSize](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useWindowSize) This folder manages window dimensions in React. One file displays dimensions, the other tracks size changes using React hooks.
+- [useWindowSize:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useWindowSize) This folder manages window dimensions in React. One file displays dimensions, the other tracks size changes using React hooks.
 
 ### [Patterns](https://github.com/Onix-Systems/onix-react/tree/dev/patterns)
 
