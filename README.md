@@ -1,4 +1,4 @@
-![Текст](https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/376894509_1486396585522018_2613203499384574164_n.png?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1EjX0kUU6GQAX9xUwko&_nc_ht=scontent-iev1-1.xx&oh=00_AfAQLQ17xFGUUy6rMXsOyAt9XYDohWjG1iJmgk6UcqyIcg&oe=6564ADFE)
+![Текст](https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/376894509_1486396585522018_2613203499384574164_n.png?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=173fa1&_nc_ohc=6vSJIk7BLngAX8MOx2k&_nc_ht=scontent-iev1-1.xx&oh=00_AfDBzCbQZd-o4dvtct784xUZhPR5qD0zl-WOw1j7DAGUBA&oe=656C96FE)
 
 # Onix React
 
@@ -27,8 +27,9 @@ In the "Hooks" section, you'll find various React Hooks implementations and exam
 - [useForm:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useForm) In this folder, you'll find examples that demonstrate how to efficiently and effectively handle forms in your React application. 
 - [useHotkeys:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useHotkeys) The "useHotkeys" folder contains examples of custom hooks that allow you to define and manage keyboard shortcuts or hotkeys in your React application. 
 - [useId:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useId) The "useId" folder provides examples on how to generate unique identifiers that can be associated with form elements.
-- [useTimeout:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useTimeout) In the "useTimeout" folder, you'll find examples of custom hooks that provide a way to set and manage timeouts in a React component.
+- [useTimeout:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useTimeout) In the `useTimeout` folder, you'll find examples of custom hooks that provide a way to set and manage timeouts in a React component.
 - [useWindowSize:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useWindowSize) This folder manages window dimensions in React. One file displays dimensions, the other tracks size changes using React hooks.
+- [useIntersectionObserver:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useIntersectionObserver) The folder contains a React hook, `useIntersectionObserver`, that uses the Intersection Observer API to monitor the visibility of a designated DOM element within a React component.
 
 ### [Patterns](https://github.com/Onix-Systems/onix-react/tree/dev/patterns)
 
