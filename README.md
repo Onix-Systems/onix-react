@@ -30,6 +30,7 @@ In the "Hooks" section, you'll find various React Hooks implementations and exam
 - [useTimeout:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useTimeout) In the `useTimeout` folder, you'll find examples of custom hooks that provide a way to set and manage timeouts in a React component.
 - [useWindowSize:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useWindowSize) This folder manages window dimensions in React. One file displays dimensions, the other tracks size changes using React hooks.
 - [useIntersectionObserver:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useIntersectionObserver) The folder contains a React hook, `useIntersectionObserver`, that uses the Intersection Observer API to monitor the visibility of a designated DOM element within a React component.
+- [useCopyToClipboard:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useCopyToClipboard) In this folder, we can see the `useCopyToClipboard` hook, which manages clipboard operations, making it easy to copy text within a React application.
 
 ### [Patterns](https://github.com/Onix-Systems/onix-react/tree/dev/patterns)
 
