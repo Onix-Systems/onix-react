@@ -64,8 +64,8 @@ This folder provides a collection of code examples and snippets covering a wide 
 
 - [Lazy Loading:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Lazy%20Loading)  These examples demonstrate how to implement lazy loading and handle loading and error states effectively in a React application.
 
-- [Animations:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Animations) It's a folder with code examples for creating animations in a React Native application, covering both general animations using the `Animated` API and layout-specific animations using `LayoutAnimation`.
-
+- [Animations:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Animations) This folder contains examples of animations for both CSS and React Native. It covers general animations using the `Animated API` and layout-specific animations using `LayoutAnimation` in React Native applications.
+  
 - [Navigation:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Navigation) These code examples illustrate how to set up navigation in a React Native application using the `@react-navigation/native` library. 
 
 - [Redux:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/Redux) The code examples provided  to be related to managing application state using Redux, Redux Toolkit, and Redux Toolkit Query. Each approach offers different ways to manage and organize state in a Redux-based application. 
