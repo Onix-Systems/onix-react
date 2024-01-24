@@ -31,6 +31,7 @@ In the "Hooks" section, you'll find various React Hooks implementations and exam
 - [useWindowSize:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useWindowSize) This folder manages window dimensions in React. One file displays dimensions, the other tracks size changes using React hooks.
 - [useIntersectionObserver:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useIntersectionObserver) The folder contains a React hook, `useIntersectionObserver`, that uses the Intersection Observer API to monitor the visibility of a designated DOM element within a React component.
 - [useCopyToClipboard:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useCopyToClipboard) In this folder, we can see the `useCopyToClipboard` hook, which manages clipboard operations, making it easy to copy text within a React application.
+- [useDebounce:](https://github.com/Onix-Systems/onix-react/tree/dev/Hooks/useDebounce) This folder includes two files, demonstrating the use of the useDebounce hook in a React component for handling debounced user input. 
 
 ### [Patterns](https://github.com/Onix-Systems/onix-react/tree/dev/patterns)
 
