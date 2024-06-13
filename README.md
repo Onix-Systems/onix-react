@@ -1,4 +1,4 @@
-![Текст](https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/422307199_1556680505160292_212112409881317197_n.png?stp=dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=rj7SYc-vLiEQ7kNvgFAEDGf&_nc_ht=scontent-iev1-1.xx&oh=00_AYDoHofrTrfqMB0r73y66m3DeANx6VIE5gilKB2DKFN0tQ&oe=66674400)
+![Текст](https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/422307199_1556680505160292_212112409881317197_n.png?stp=dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VxPbbAP-LawQ7kNvgFbbba1&_nc_ht=scontent-iev1-1.xx&oh=00_AYCj4hSQTUqGK1CzLIoW03H9wgj7sUCF7Zq6HlCnXeHh2g&oe=66707E80)
 
 # Onix React
 
