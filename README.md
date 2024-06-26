@@ -74,7 +74,7 @@ This folder provides a collection of code examples and snippets covering a wide 
 - [createContext:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/createContext)  this folder and its contents demonstrate how to create and use React context to manage and share application-wide states, such as themes and user data, among different components.
 
 - [i18next:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/i18next) This folder and its contents provide an example of how to implement internationalization (i18n) in a React application using the i18next library.
-- [react-virtualized:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/react-virtualized) This folder houses a React app featuring data generation for a list of 5000 items, rendered efficiently using the react-virtualized List component. Styling in src/App.css enhances the visual presentation
+- [React Virtualized:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/React_Virtualized) This folder houses a React app featuring data generation for a list of 5000 items, rendered efficiently using the react-virtualized List component. Styling in src/App.css enhances the visual presentation
 
 - [yup:](https://github.com/Onix-Systems/onix-react/tree/dev/examples/yup) These code examples include code related to form validation using the Yup schema validation library in a React application. The provided code example sets up form validation with Yup and handles form submissions.
 
