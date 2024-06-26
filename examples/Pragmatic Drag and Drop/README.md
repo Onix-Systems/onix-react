@@ -29,4 +29,4 @@ To run this example locally, follow these steps:
 
 ### You can read the aricle about Pragmatic Drag and Drop on our Medium!
 
-### Follow this link 👉 
+### Follow this link 👉 [Exploring Pragmatic Drag and Drop](https://medium.com/@onix_react/exploring-pragmatic-drag-and-drop-bdde4de412b1)
