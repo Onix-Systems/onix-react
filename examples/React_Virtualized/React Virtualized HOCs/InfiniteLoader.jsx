@@ -1,0 +1,20 @@
+ReactDOM.render(
+  <InfiniteLoader
+    isRowLoaded={isRowLoaded}
+    loadMoreRows={loadMoreRows}
+    rowCount={remoteRowCount}
+  >
+    {({ onRowsRendered, registerChild }) => (
+      <List
+        height={200}
+        onRowsRendered={onRowsRendered}
+        ref={registerChild}
+        rowCount={remoteRowCount}
+        rowHeight={20}
+        rowRenderer={rowRenderer}
+        width={300}
+      />
+    )}
+  </InfiniteLoader>,
+  document.getElementById('example')
+);
