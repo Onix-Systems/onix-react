@@ -1,0 +1,21 @@
+ReactDOM.render(
+  <ColumnSizer
+    columnMaxWidth={100}
+    columnMinWidth={50}
+    columnCount={numColumns}
+    width={someCalculatedWidth}>
+    {({adjustedWidth, getColumnWidth, registerChild}) => (
+      <Grid
+        ref={registerChild}
+        columnWidth={getColumnWidth}
+        columnCount={numColumns}
+        height={someCalculatedHeight}
+        cellRenderer={someCellRenderer}
+        rowHeight={50}
+        rowCount={numRows}
+        width={adjustedWidth}
+      />
+    )}
+  </ColumnSizer>,
+  document.getElementById('example'),
+);
