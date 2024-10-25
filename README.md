@@ -1,4 +1,4 @@
-![image](https://scontent.fiev20-1.fna.fbcdn.net/v/t39.30808-6/422307199_1556680505160292_212112409881317197_n.png?stp=dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=2285d6&_nc_ohc=mGrpQ97DF3gQ7kNvgF7N4UA&_nc_zt=23&_nc_ht=scontent.fiev20-1.fna&_nc_gid=AQ0Ztxe_kn7wUxueNakOlRT&oh=00_AYCH4eilFvnzXivyabVEeZdw7keCxPXpQf3nCMHfVIppqg&oe=67215FC0)
+![image](https://github.com/user-attachments/assets/6ce1117f-5074-4294-ac1e-8b41a979d519)
 
 # Onix React
 
