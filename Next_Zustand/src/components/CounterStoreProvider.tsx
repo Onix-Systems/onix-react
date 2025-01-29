@@ -29,3 +29,4 @@ export const useCounterStore = <T,>(selector: (store: CounterStore) => T): T => 
   if (!store) throw new Error('useCounterStore must be used within CounterStoreProvider')
   return useStore(store, selector)
 }
+
