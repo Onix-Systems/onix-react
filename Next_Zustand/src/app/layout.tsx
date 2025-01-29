@@ -1,13 +1,13 @@
 import "./globals.css"
 import { Inter } from "next/font/google"
 import Link from "next/link"
-import type React from "react" // Import React
+import type React from "react" 
 
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Zustand with Next.js and SSR",
-  description: "Learn how to effectively manage state with Zustand in a Next.js application with SSR",
+  description: "Learn how to effectively manage state with Zustand in a Next.js application",
 }
 
 export default function RootLayout({
