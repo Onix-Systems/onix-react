@@ -20,3 +20,4 @@ export const createCounterStore = (initialState: CounterState) => {
     reset: () => set({ count: initialState.count }),
   }))
 }
+
