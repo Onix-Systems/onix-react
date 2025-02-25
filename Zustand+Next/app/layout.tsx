@@ -2,14 +2,14 @@ import type React from "react"
 import "./globals.css"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
-import StoreProvider from "../components/StoreProvider"
+import StoreProvider from "./StoreProvider"
 import Navigation from "../components/Navigation"
 
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Next.js with Zustand",
-  description: "Example of Next.js 15 with Zustand, pagination, and navigation",
+  description: "Example of Next.js with Zustand",
 }
 
 export default function RootLayout({
@@ -28,3 +28,4 @@ export default function RootLayout({
     </html>
   )
 }
+
