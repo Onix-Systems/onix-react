@@ -1,0 +1,14 @@
+import { useEffect } from 'react';
+
+export function useClickAway(ref, onAway) {
+  useEffect(() => {
+    function handle(e) {
+      if (ref.current && !ref.current.contains(e.target)) {
+        onAway(e);
+      }
+    }
+
+    document.addEventListener('mousedown', handle);
+    return () => document.removeEventListener('mousedown', handle);
+  }, [ref, onAway]);
+}
